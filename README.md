@@ -15,3 +15,4 @@
     - Lesson 4
     - Lesson 5
     - Lesson 6
+    - Presentation
