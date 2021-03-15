@@ -111,3 +111,87 @@ Now take a look ate each verb.
             - with your family / with your friends
 
 ## Examples in Context
+
+**Buy a Car**
+- **Hugo** - Do you **have a car**?
+- **Kim** - Yeah... a sedan.
+- **Hugo** - Do you **like it**? **Is it** good?
+- **Kim** - **It's** a nice car.
+- **Hugo** - **I live** far from work. I need to buy a car.
+- **Kim** - Sedans **are** spacious and comfortable.
+- **Hugo** - Thanks.
+
+## Stay Alert
+| | Affirmative | | Negative |
+| - |----------- | - | -------- |
+| | **like** chocolate| | **don't like** chocolate |
+| I / You / We / They | **work** every day | I / You / We / They | **don't work** every day |
+| | **live** in the U.S.A.| | **don't live** in the U.S.A. |
+| | **likes** chocolate | | **doesn't like** chocolate |
+| He / She / It | works every day | He / She / It | **doesn't work** every day |
+| | **lives** in the U.S.A. | | **doesn't live** in the U.S.A. |
+| I / You / We / They | **have** breakfast in the morning | I / You / We / They | **don't have** breakfast in the morning |
+| He / She / It | **has** breakfast in the morning | He / She / It | **doesn't have** breakfast in the morning |
+
+# Cardinal Numbers, Family Members, and Pets
+
+## Use And Structure
+- **Numbers**
+    - You use numbers to:
+        - Say your age > *I am **twelve** years old.*
+        - Talk about your family > *I have **two** sisters.*
+        - Talk about your pets > *I have **one** dog and **three** cats.*
+        - Talk about quantity in general > *I live with **four** people in my house.*
+
+|   | Numbers |   |
+| - | ------- | - |
+| 1 - one | 5 - five | 9 - nine |
+| 2 - two | 6 - six | 10 - ten |
+| 3 - three | 7 - seven | 11 - eleven |
+| 4 - four | 8 - eight | 12 - twelve |
+
+- **Family Members**
+    - Grandfather
+    - Grandmother
+    - Father
+    - Mother
+    - Uncle
+    - Aunt
+    - Sister
+    - Me
+    - Brother
+    - Cousin (F/M)
+        - Your brotther and your sister are your **siblings**.
+        - Your mother and your father are your **parents**.
+        - You and your siblings are your parents **children**.
+        - Your grandmother and your grandfather are your **grandparents**.
+
+- **Pets**
+    - Do you have a pets? Take a look at some types of pets you can have:
+        - Puppy (Baby dog)
+        - Kitten (Baby cat)
+        - Dog
+        - Cat
+        - Bird
+        - Fish
+        - Iguana
+        - Ferret
+        - Hamster
+        - Rabbit
+        - Snake
+        - Pig
+
+## Examples in Context
+**Talking About Your Home Life**
+**Jerry** - So. Ted... Is it true you live with your **grandparents** on a farm?
+**Ted** - Yes! My parents work in the city, but I live there with my **grandparents** and with my **syster**.
+**Jerry** - Cool! Do you have **pets** there?
+**Ted** - Yes! We have ten pets: **two dogs, one cat, two birds, three piglets, one hamster, and one ferret**.
+**Jerry** - Oh, wow! Is it difficult to take care of them?
+**Ted** - It is, but they are great! I love my pets.
+
+## Common Mistakes
+| INCORRECT | CORRECT |
+| ----------| ------- |
+| I have **~~parents~~** in New York. | I have **relatives** in New York. |
+| My **~~brothers'~~** names are Mary and John. | My **siblings'** names are Mary and John. |
