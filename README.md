@@ -11,7 +11,11 @@
         - [Question Words: Who and What](https://github.com/alcir-junior-caju/study-english/blob/main/lesson2.md#question-words-who-and-what)
         - [Verb To Be: Review](https://github.com/alcir-junior-caju/study-english/blob/main/lesson2.md#verb-to-be-review)
         - [Verb To Have](https://github.com/alcir-junior-caju/study-english/blob/main/lesson2.md#verb-to-have)
-    - [Lesson 3](https://github.com/alcir-junior-caju/study-english/blob/main/lesson3.md)
+    - [Lesson 3](https://github.com/alcir-junior-caju/study-english/blob/main/lesson3.md#greetings-and-farewells)
+        - [Greetings and Farewells](https://github.com/alcir-junior-caju/study-english/blob/main/lesson3.md#greetings-and-farewells)
+        - [Question Words: How old](https://github.com/alcir-junior-caju/study-english/blob/main/lesson3.md#question-words-how-old)
+        - [Verbs To Be, To Like, To Work, To Live, To Have](https://github.com/alcir-junior-caju/study-english/blob/main/lesson3.md#verbs-to-be-to-like-to-work-to-live-to-have)
+        - [Cardinal Numbers, Family Members, and Pets](https://github.com/alcir-junior-caju/study-english/blob/main/lesson3.md#cardinal-numbers-family-members-and-pets)
     - Lesson 4
     - Lesson 5
     - Lesson 6
