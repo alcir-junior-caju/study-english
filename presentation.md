@@ -8,7 +8,7 @@ Introduce yourself, talk about your family, your profession, and your personal c
 >
 > _I am a calm, and very organized, and outgoing._
 >
-> _I am a Software Enginnier. I work with Web Development, I make web systems._
+> _I am a Software Engineer. I work with Web Development, I make web systems._
 
 # Describe Your Routine
 
