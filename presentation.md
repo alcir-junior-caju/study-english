@@ -16,6 +16,12 @@ What is your routine like? What do you do on the weekdays? What do you do on the
 
 > **Language items:** simple present.
 
+> _My routine is very complicated. I lack time._
+>
+> _During the week: I work and study every day. I try to study english an hour or two every day. And I still study for three or four hours of technology. And of course I work for eight hours every day._
+>
+> _During weekends: I study and work sometimes. When I just study, I vary between English and technology. When I work, it's just a normal day._
+
 # Analyze Your Schedule
 
 What activities in your schedule do you consider to be priorities?
