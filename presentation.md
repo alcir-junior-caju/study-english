@@ -4,11 +4,11 @@ Introduce yourself, talk about your family, your profession, and your personal c
 
 > **Language items:** verb to be, verb to have, adjectives, simple present, personal information.
 
-> _My name is Alcir Junior, I have thirty-eight years-old, I'm married and I have a Daugther, who is ten-year-old._
+> _My name is Alcir Junior, I have thirty-eight years-old, I'm married and I have a Daugther, who is ten-years-old._
 >
-> _I am a calm, and very organized, and outgoing._
+> _I am a calm, very organized, and outgoing._
 >
-> _I am a Software Engineer. I work with Web Development, I make web systems._
+> _I am a Software Engineer. I work with Web Development, I do make web systems._
 
 # Describe Your Routine
 
