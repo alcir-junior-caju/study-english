@@ -593,3 +593,75 @@ Karl is an **\_\_\_**.
 - [ ] Japanese / student
 - [ ] South African / man
 - [x] Australian / dentist
+
+### Vocabulary Pratice
+
+#### Choose the correct option according to the picture.
+
+- [ ] Steve is a teacher
+- [ ] Steve is a doctor
+- [x] Steve is a police officer
+- [ ] Steve is a lawyer
+
+#### Choose the correct option according to the picture.
+
+- [ ] Karen is a pilot
+- [ ] Karen is a lawyer
+- [x] Karen is a salesperson
+- [ ] Karen is a bank manager
+
+#### Choose the correct option according to the picture.
+
+- [ ] They are pilots
+- [x] They are doctors
+- [ ] They are reporters
+- [ ] They are economists
+
+#### Choose the correct option according to the picture.
+
+- [ ] Brad is a doctor
+- [ ] Brad is an economist
+- [x] Brad is a pilot
+- [ ] Brad is an architect
+
+#### Choose the correct option according to the picture.
+
+- [ ] John and Mia are single
+- [x] John and Mia are married
+- [ ] John and Mia are divorced
+- [ ] John and Mia are engaged
+
+#### Choose the correct option according to the picture.
+
+- [ ] Carla is German
+- [ ] Carla is Russian
+- [ ] Carla is Chinese
+- [x] Carla is French
+
+#### Choose the correct option according to the picture.
+
+- [ ] Pablo is English
+- [ ] Pablo is Spanish
+- [ ] Pablo is Colombian
+- [x] Pablo is Mexican
+
+#### Choose the correct option according to the picture.
+
+- [ ] They are divorced
+- [ ] They are married
+- [ ] They are single
+- [x] They are engaged
+
+#### Choose the correct option according to the picture.
+
+- [ ] Meg is a lawyer
+- [ ] Meg is a single
+- [ ] Meg is an economist
+- [x] Meg is Canadian
+
+#### Choose the correct option according to the picture.
+
+- [x] Adele is a teacher
+- [ ] Adele is a married
+- [ ] Adele is store manager
+- [ ] Adele is a American
