@@ -8,6 +8,7 @@
      - [Indefinite Articles](https://github.com/alcir-junior-caju/study-english/blob/main/lesson1.md#indefinite-articles)
      - [Greetings and Farewells](https://github.com/alcir-junior-caju/study-english/blob/main/lesson1.md#greetings-and-farewells)
      - [Verb To Be + Subject Pronouns](https://github.com/alcir-junior-caju/study-english/blob/main/lesson1.md#vern-to-be--subject-pronouns)
+     - [Exercises](https://github.com/alcir-junior-caju/study-english/blob/main/lesson1.md#exercises)
 
    - [Lesson 2](https://github.com/alcir-junior-caju/study-english/blob/main/lesson2.md#demonstrative-pronouns)
 
@@ -33,3 +34,4 @@
    - Lesson 5
    - Lesson 6
    - [Presentation](https://github.com/alcir-junior-caju/study-english/blob/main/presentation.md)
+   - [Structure](#)
