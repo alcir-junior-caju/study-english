@@ -30,6 +30,12 @@ What are the activities you like to and the ones you don't like to do?
 
 > **Language items:** simple present, personal information, likes and dislikes.
 
+> _My priority is to study and work._
+>
+> _I like watching My Hero Academia together my daughter and playing videogame with her._
+>
+> _I don't like to work hard. I wish I had more time to do other things._
+
 # Life Mission Statement
 
 What is your life mission statement?
