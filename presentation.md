@@ -46,4 +46,10 @@ Draw a conclusion: What are your life choices? (List five priorities in your lif
 
 > **Language items:** verb to be, verb to have, adjectives, simple present, personal information.
 
+> _I am not sure, but I want to finish my studies and work less and enjoy life more. Maybe opening a startup that can make a difference using technology._
+>
+> _For that to happen, I need to be strong, have discipline, be organized and focused._
+>
+> _My life choices are: family, always study, enjoying life more, working less, technology always._
+
 When you finish writing, proofread the text. Pay attention to spelling, to vocabulary appropriateness, and to sentence construction. Also, make sure you answered all questions and included all parts.
