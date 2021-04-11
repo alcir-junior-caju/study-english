@@ -35,7 +35,12 @@
 
      - [How to Make a Personal Presentation](https://github.com/alcir-junior-caju/study-english/blob/main/reviewl1-l4.md)
 
-   - Lesson 5
+   - [Lesson 5](https://github.com/alcir-junior-caju/study-english/blob/main/lesson5.md#articles-definite-and-indefinite)
+     - [Articles: Definite and Indefinite](https://github.com/alcir-junior-caju/study-english/blob/main/lesson5.md#articles-definite-and-indefinite)
+     - [Connectors: And, But, and So](https://github.com/alcir-junior-caju/study-english/blob/main/lesson5.md#connectors-and-but-and-so)
+     - [imperatives](https://github.com/alcir-junior-caju/study-english/blob/main/lesson5.md#imperatives)
+     - [Likes and Dislikes](https://github.com/alcir-junior-caju/study-english/blob/main/lesson5.md#likes-and-dislikes)
+     - [Expressing Possesion: Possessive Adjectives](https://github.com/alcir-junior-caju/study-english/blob/main/lesson5.md#expressing-possession-possessive-adjectives)
    - Lesson 6
    - [Presentation](https://github.com/alcir-junior-caju/study-english/blob/main/presentation.md)
    - [Structure](#)
