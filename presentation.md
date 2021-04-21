@@ -32,7 +32,7 @@ What are the activities you like to and the ones you don't like to do?
 
 > _My priority is to study and work._
 >
-> _I like watching My Hero Academia and play videogames with my daughter._
+> _I like watching My Hero Academia and play videogames with my daughter. I try to do this every day._
 >
 > _I don't like to work hard. I wish I had more time to do other things._
 
