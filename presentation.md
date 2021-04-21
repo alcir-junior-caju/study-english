@@ -4,11 +4,11 @@ Introduce yourself, talk about your family, your profession, and your personal c
 
 > **Language items:** verb to be, verb to have, adjectives, simple present, personal information.
 
-> _My name is Alcir Junior, I have thirty-eight years-old, I'm married and I have a Daugther, who is ten-years-old._
+> _My name is Alcir Junior, I am thirty-eight years-old, I'm married and I have a Daugther, She is ten-years-old._
 >
-> _I am a calm, very organized, and outgoing._
+> _I am calm, very organized, and outgoing._
 >
-> _I am a Software Engineer. I work with Web Development, I do make web systems._
+> _I am a Software Engineer. I work with Web Development at a company in New York but I live in São Paulo, I make web systems._
 
 # Describe Your Routine
 
@@ -18,7 +18,7 @@ What is your routine like? What do you do on the weekdays? What do you do on the
 
 > _My routine is very complicated. I lack time._
 >
-> _During the week: I work and study every day. I try to study english an hour or two every day. And I still study for three or four hours of technology. And of course I work for eight hours every day._
+> _During the week: I work and study every day. I try to study english an hour or two every day. And I still study three or four hours of technology. And of course I work for eight hours every day._
 >
 > _During weekends: I study and work sometimes. When I just study, I vary between English and technology. When I work, it's just a normal day._
 
@@ -32,7 +32,7 @@ What are the activities you like to and the ones you don't like to do?
 
 > _My priority is to study and work._
 >
-> _I like watching My Hero Academia with my daughter and play videogames with her._
+> _I like watching My Hero Academia and play videogames with my daughter._
 >
 > _I don't like to work hard. I wish I had more time to do other things._
 
@@ -50,6 +50,6 @@ Draw a conclusion: What are your life choices? (List five priorities in your lif
 >
 > _For that to happen, I need to be strong, have discipline, be organized and focused._
 >
-> _My life choices are: family, always study, enjoying life more, working less, technology always._
+> _My life choices are: family, always studying, enjoying life more, working less, technology always._
 
 When you finish writing, proofread the text. Pay attention to spelling, to vocabulary appropriateness, and to sentence construction. Also, make sure you answered all questions and included all parts.
