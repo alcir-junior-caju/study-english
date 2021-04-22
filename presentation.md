@@ -6,9 +6,9 @@ Introduce yourself, talk about your family, your profession, and your personal c
 
 > _My name is Alcir Junior, I am thirty-eight years-old, I'm married and I have a Daugther, She is ten-years-old._
 >
-> _I am calm, very organized, and outgoing._
+> _I am calm, very simple, very organized, and outgoing._
 >
-> _I am a Software Engineer. I work with Web Development at a company in New York but I live in São Paulo, I make web systems._
+> _I am a Software Engineer. I work with Web Development at a company in New York but I live in São Paulo, Basically I make web systems._
 
 # Describe Your Routine
 
