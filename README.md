@@ -51,11 +51,15 @@
      - [Question Word: What Time](https://github.com/alcir-junior-caju/study-english/blob/main/lesson6.md#question-word-what-time)
 
    - [Presentation](https://github.com/alcir-junior-caju/study-english/blob/main/presentation.md)
-   - [Structure](#)
 
 1. **Basic 2**
 
    - [Lesson 1](#)
+
+     - [Articles: Definite, Indefinite, and Zero](#)
+     - [Greetings and Farewells](#)
+     - [Plural Forms](#)
+     - [Simple Present](#)
 
    - [Lesson 2](#)
 
